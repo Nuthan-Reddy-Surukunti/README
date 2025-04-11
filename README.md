@@ -1,17 +1,39 @@
-Hi there, I'm Tejdeep Gurramkonda 👋
-🚀 About Me:
-🎓 Student at Lovely Professional University, pursuing B.Tech in Computer Science.
-🧠 Aspiring AI Engineer
-💻 Passionate about Data Science,Machine Learning and AI.
-🎯 Interests: AI, Data Analysis, Machine Learning, NLP, and MLOps.
-🔥 Technologies & Tools:
-Programming: Python, R, Java, JavaScript
-AI & Data Science: TensorFlow, OpenCV, Tableau, SQL
-Web Development: HTML, CSS, JavaScript
-📌 Current Projects:
-📊 Sales Performance Data Analysis
-📫 Connect with Me:
-📧 Email: tejdeepgurramkonda@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/tejdeep-gurramkonda
-🐦 X: @Tejdeep_G
-Thanks for visiting my profile! 🚀
+# 👋 Hi there, I'm Nuthan Reddy!
+
+🚀 **About Me**  
+🎓 I'm currently a student, diving deep into the world of data and AI.  
+🔍 Focused on starting my career in **Data Analysis**, and steadily working my way toward becoming a **Data Engineer**, **Data Scientist**, and ultimately exploring **Generative AI** and **Agentic AI**.
+
+🧠 **What Drives Me**  
+I'm passionate about uncovering insights from data and building intelligent systems that can reason, learn, and evolve. My learning journey is fueled by curiosity, consistency, and coffee ☕.
+
+🎯 **Areas of Interest**  
+- Data Analysis & Visualization  
+- Machine Learning & Deep Learning  
+- Data Engineering & Pipelines  
+- Generative AI & LLMs  
+- Agentic AI Systems  
+- NLP & AI Product Development
+
+🛠️ **Tech Stack & Tools**  
+- **Languages**: Python, SQL, R, Kotlin, Java  
+- **Data Tools**: Pandas, NumPy, Matplotlib, Power BI, Tableau  
+- **ML & AI**: scikit-learn, TensorFlow, OpenCV, LangChain  
+- **Databases**: MySQL, PostgreSQL, MongoDB  
+- **Cloud & DevOps**: Google Colab, Jupyter, Git & GitHub  
+- **Mobile & Backend Dev**: Android (Kotlin), Firebase  
+
+📌 **What I'm Working On**  
+- 📱 A leather craft Android app (Tool Library module complete, Phase 2 in progress)  
+- 📊 Data analysis projects exploring business KPIs and sales performance  
+- 🧪 Experimenting with Gen AI tools and chaining logic with LangChain  
+
+📫 **Let's Connect**  
+- ✉️ Email: [your.email@example.com]  
+- 🔗 LinkedIn: [Your LinkedIn Profile]  
+- 🐦 X/Twitter: [@YourHandle]  
+- 🌐 Portfolio: [Optional - Your personal website or portfolio]
+
+---
+
+Thanks for stopping by my GitHub! Let's build the future of AI together 💡🚀
